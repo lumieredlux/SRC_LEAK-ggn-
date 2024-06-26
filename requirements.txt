@@ -1,4 +1,4 @@
-https://github.com/pyrogram/pyrogram/archive/refs/tags/v2.0.0.zip
+https://drive.google.com/uc?export=download&id=1pC5pvnfq6Dn7M_M9M58-J9CwqDvzvCai
 tgcrypto
 pyromod
 opencv-python-headless
